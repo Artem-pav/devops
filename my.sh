@@ -1,2 +1,2 @@
 !#/bin/bash
-echo "Hello everyone"
+echo "Hello, it is script"
